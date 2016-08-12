@@ -1,0 +1,7 @@
+{
+    "auth_service": "google",
+    "username": "example@gmail.com",
+    "password": "password123",
+    "latitude": "45.465422"
+    "longitude": "9.185924"
+}
